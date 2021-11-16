@@ -1,0 +1,86 @@
+{
+  "Max Weinzierl": {
+    "first_name": "Max",
+    "last_name": "Weinzierl",
+    "pets": {
+      "Molly": {
+        "age": 4
+      },
+      "Daisy": {
+        "age": 4
+      }
+    }
+  },
+  "Beccah Hurston": {
+    "first_name": "Beccah",
+    "last_name": "Hurston",
+    "pets": {
+      "Max": {
+        "age": 2
+      }
+    }
+  },
+  "Jennah Breakly": {
+    "first_name": "Jennah",
+    "last_name": "Breakly",
+    "pets": {
+      "Bailey": {
+        "age": 4
+      }
+    }
+  },
+  "Zachary Charles": {
+    "first_name": "Zachary",
+    "last_name": "Charles",
+    "pets": {
+      "Lucy": {
+        "age": 5
+      }
+    }
+  },
+  "Daisy Krueger": {
+    "first_name": "Daisy",
+    "last_name": "Krueger",
+    "pets": {
+      "Molly": {
+        "age": 3
+      }
+    }
+  },
+  "Lauren Madison": {
+    "first_name": "Lauren",
+    "last_name": "Madison",
+    "pets": {
+      "Daisy": {
+        "age": 6
+      }
+    }
+  },
+  "Angelica Moran": {
+    "first_name": "Angelica",
+    "last_name": "Moran",
+    "pets": {
+      "Buddy": {
+        "age": 5
+      }
+    }
+  },
+  "Nicholas Ashton": {
+    "first_name": "Nicholas",
+    "last_name": "Ashton",
+    "pets": {
+      "Charlie": {
+        "age": 4
+      }
+    }
+  },
+  "Seth Myles": {
+    "first_name": "Seth",
+    "last_name": "Myles",
+    "pets": {
+      "Jaxson": {
+        "age": 3
+      }
+    }
+  }
+}

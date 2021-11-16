@@ -1,0 +1,23 @@
+{
+  "mweinzierl": {
+    "first_name": "Max",
+    "last_name": "Weinzierl",
+    "pets": {
+      "Molly": {
+        "age": 4
+      },
+      "Daisy": {
+        "age": 4
+      }
+    }
+  },
+  "bhurston": {
+    "first_name": "Beccah",
+    "last_name": "Hurston",
+    "pets": {
+      "Max": {
+        "age": 2
+      }
+    }
+  }
+}

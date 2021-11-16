@@ -1,0 +1,18 @@
+owners- phone number x
+pet- breed x
+pet- size  x
+
+creating owner with pet function
+add multiple pets to owner ('would you like to add another pet?")
+
+quality-
+adding existing owners (override)
+adding existing pets (override)
+
+
+similar quality-
+gibberish name,age,phone number
+confirmation of save for info deletion/addition
+addition fulfilled
+deletion confirmed
+and also (are you sure?)

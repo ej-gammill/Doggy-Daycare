@@ -1,0 +1,115 @@
+{
+  "Max Weinzierl": {
+    "first_name": "Max",
+    "last_name": "Weinzierl",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Molly": {
+        "age": 4,
+        "breed": "golden retriever",
+        "size": "medium"
+      },
+      "Daisy": {
+        "age": 4,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  },
+  "Beccah Hurston": {
+    "first_name": "Beccah",
+    "last_name": "Hurston",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Max": {
+        "age": 2,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  },
+  "Jennah Breakly": {
+    "first_name": "Jennah",
+    "last_name": "Breakly",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Bailey": {
+        "age": 4,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  },
+  "Zachary Charles": {
+    "first_name": "Zachary",
+    "last_name": "Charles",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Lucy": {
+        "age": 5,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  },
+  "Daisy Krueger": {
+    "first_name": "Daisy",
+    "last_name": "Krueger",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Molly": {
+        "age": 3,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  },
+  "Lauren Madison": {
+    "first_name": "Lauren",
+    "last_name": "Madison",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Daisy": {
+        "age": 6,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  },
+  "Angelica Moran": {
+    "first_name": "Angelica",
+    "last_name": "Moran",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Buddy": {
+        "age": 5,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  },
+  "Nicholas Ashton": {
+    "first_name": "Nicholas",
+    "last_name": "Ashton",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Charlie": {
+        "age": 4,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  },
+  "Seth Myles": {
+    "first_name": "Seth",
+    "last_name": "Myles",
+    "phone_number": "999-999-9999",
+    "pets": {
+      "Jaxson": {
+        "age": 3,
+        "breed": "golden retriever",
+        "size": "medium"
+      }
+    }
+  }
+}
